@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juaco93
-- 👀 I’m interested in learning and messing with new stuff
-- 💞️ I’m looking to collaborate on developing new solutions
+- 👋 Hi, I’m Joaquin. I'm a developer from Argentina with background on CS.
+- 👀 I’m always interested in learning and messing with new stuff
+- 💞️ I’m looking to collaborate on teams all around the world, helping them and learning along the way
 - 📫 How to reach me ---> juaco1993@gmail.com
