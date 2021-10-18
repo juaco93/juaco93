@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juaco93
+- 👀 I’m interested in learning and messing with new stuff
+- 💞️ I’m looking to collaborate on developing new solutions
+- 📫 How to reach me ---> juaco1993@gmail.com
